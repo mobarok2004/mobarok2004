@@ -21,5 +21,5 @@ Skills: HTML/ CSS/ JS
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mobarok2004/contributions?format=svg&private=false)  
 
-![GitHub metrics](https://metrics.lecoq.io/mobarok2004)  
+
 
