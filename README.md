@@ -1,5 +1,4 @@
-![Web Developer ](<img width="300" height="203" alt="image" src="https://github.com/user-attachments/assets/9f061e73-72c2-4c76-bd2b-5f12482383cd" />
-)
+![Web Developer])
 
 ### Hi there 👋, I'm MOBAROK HOSEN
 #### Web Developer 
